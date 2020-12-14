@@ -14,3 +14,6 @@ cpf, categoria, nome da mãe, ao final da lista também é possível exportar pa
 Também é possível fazer consultas tanto do segurado, pensionistas ou auxilio reclusão, ex segurados ou pessoas
 que estão fazendo recadastramentos no sistema, também é possível fazer a consulta de excluídos, representante 
 legal, leis, verbas, fontes pagadoras, cargos, pessoas e óbitos.
+
+
+PS: Os aquivos das pastas Parte-1 e Parte-2 devem ser unificados em uma pasta somente
